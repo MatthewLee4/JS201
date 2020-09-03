@@ -2,6 +2,7 @@
 
 Hello world!
 
+
 Programming exercises for a beginning JavaScript programmer.
 
 These exercises use Strings, loops, Objects, and Arrays to solve logic problems.
@@ -46,3 +47,5 @@ test.
 
 [Node.js]:https://nodejs.org/
 [npm]:https://en.wikipedia.org/wiki/Npm_(software)
+
+Good-bye world!
